@@ -16,7 +16,7 @@ lista
 
 //encontrar 
 
-lista.indexOf('lola');
+lista.indexOf('lolaaaaa');
 lista[3]
 // quando devlve -1 significa que nao existe
 // join junta as listas
